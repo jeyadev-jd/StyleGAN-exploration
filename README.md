@@ -137,4 +137,4 @@ Forked from [Naveenvaidani/StyleGAN-exploration](https://github.com/Naveenvaidan
 
 ## License
 
-No license included yet. Add one before redistributing or accepting contributions.
+MIT License. See [LICENSE](LICENSE).
