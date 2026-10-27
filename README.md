@@ -1,5 +1,7 @@
 # StyleGAN Exploration: Style-Based GAN in TensorFlow/Keras on CIFAR-10
 
+> 🔗 **[Project page, demo and write-up on jeyadev.dev](https://jeyadev.dev/projects/stylegan-exploration)**: Style-Based GAN in TensorFlow/Keras on CIFAR-10, by [Jeyadev R](https://jeyadev.dev), AI engineer in Chennai.
+
 ![TensorFlow Keras](https://img.shields.io/badge/framework-TensorFlow%2FKeras-orange)
 ![CIFAR-10 dataset](https://img.shields.io/badge/dataset-CIFAR--10-blue)
 ![Image generation](https://img.shields.io/badge/task-image%20generation-2f855a)
